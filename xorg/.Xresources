@@ -1,0 +1,78 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgba
+Xft.autohint: 1
+Xft.hintstyle: hintfull
+
+*fading:                15
+*fadeColor:             black
+*cursorColor:           #16A085
+*pointerColorBackground:#2B2C2B
+*pointerColorForeground:#16A085
+
+Xcursor.theme: Numix-Cursor-Maia
+Xcursor.size:  1
+
+! *color1: #2b1b1d
+! *color2: #91002b
+! *color3: #579524
+! *color4: #ab311b
+! *color5: #8c87b0
+! *color6: #692f50
+! *color7: #e8a866
+! *color8: #68525a
+!
+! *color09: #3d2b2e
+! *color10: #c5255d
+! *color11: #8dff57
+! *color12: #c8381d
+! *color13: #cfc9ff
+! *color14: #fc6cba
+! *color15: #ffceaf
+! *color16: #b0949d
+!
+! *background: #150707
+! *foreground: #68525a
+! *cursorColor: #68525a
+
+! *color1: #0a091e           ! HOST
+! *color2: #5a2153           ! SYNTAX_STRING
+! *color3: #514668           ! COMMAND
+! *color4: #9b042e           ! COMMAND_COLOR2
+! *color5: #e40b2b           ! PATH
+! *color6: #9c1c53           ! SYNTAX_VAR
+! *color7: #e21b4b           ! PROMP
+! *color8: #e3a3a6           !
+! *color9: #9e7274           !
+! *color10: #5a2153           ! COMMAND_ERROR
+! *color11: #514668           ! EXEC
+! *color12: #9b042e           !
+! *color13: #e40b2b           ! FOLDER
+! *color14: #9c1c53           !
+! *color15: #e21b4b           !
+! *color16: #e3a3a6           !
+
+! *color1: #0a091e
+! *color2: #5a2153
+! *color3: #514668
+! *color4: #9b042e
+! *color5: #e40b2b
+! *color6: #9c1c53
+! *color7: #e21b4b
+! *color8: #e3a3a6
+! *color9: #9e7274
+! *color10: #5a2153
+! *color11: #514668
+! *color12: #9b042e
+! *color13: #e40b2b
+! *color14: #9c1c53
+! *color15: #e21b4b
+! *color16: #e3a3a6
+!
+! *background: #1f1305
+! *foreground: #b4e1fd
+! *cursorColor: #ffffff
+
+! Black color that will not be affected by bold highlighting.
+! *color66:  #020406

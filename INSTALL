@@ -1,0 +1,18 @@
+pacman -S  htop wget
+
+# misc
+pacman -S ttyrec dvtm entr alsi neofetch gtypist sc-im calcurse nnn
+
+pacman -S flatpak rofi pavucontrol chromium firefox-developer-edition compton git rsync ttf-ubuntu-font-family connman cmst ufw thunderbird lxappearance arandr ffmpeg imagemagick maim mpd ncmpcpp pulseeffects pulseaudio-equalizer-ladspa dunst libreoffice zathura print-manager system-config-printer nodejs sbcl docker zsh nitrogen lxterminal neovim emacs deluge rtorrent vlc parole qemu i3-gaps skypeforlinux obs-studio
+
+packer -S spotify quicklisp google-chrome cmst brightness-controller skypeforlinux-preview-bin
+
+# presentations (farbfeld for images)
+packer -S sent farbfeld
+
+Trzeba zainstalowac z githuba:
+- appimage
+- gohufont (pewnie lepiej z githuba pobrac ta wersje powerline)
+- comix-* (cursor)
+- adapta-*, adapta-nokto-*
+- breeze dark, haiku

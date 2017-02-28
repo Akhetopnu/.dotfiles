@@ -1,0 +1,47 @@
+alternative app platforms: flatpak, appimage
+app launcher: rofi
+audio volume: pavucontrol
+browser: chromium, google-chrome, firefox-developer-edition
+compositor: compton? (na pewnoe nie ma lepszej alternatywy?)
+calendar - calcurse
+cvs: git, rsync
+file manager: nnn :D
+font: gohufont, ttf-ubuntu-font-family
+internet - connman + cmst, ufw
+graphics card - nvidia + nvidia-persistenced.service
+mail: thunderbird
+monitors:
+	config - lxappearance / qt-config
+	resolution - arandr
+	brightness - brightness-controller
+	cursor: Comix-*
+	windows - Adapta-*, Adapta-Nokto-*
+	icons - Breeze Dark, Haiku
+	font - gohu for terminal, ubuntu for gui
+	screenshot - ffmpeg, imagemagick, spectacle (crashes at the moment)
+mail: thunderbird + lightning (calendar/tasks), protonmail bridge?
+music: mpd, ncmpcpp, spotify, pulseaudio-equalizer{,-gtk}, pulseeffects
+notifications: dunst
+office: libreoffice
+pdf: zathura
+printing - print-manager/system-config-printer, lpr
+programming:
+- Javascript - nodejs, nwjs
+- Common Lisp - sbcl + quicklisp
+- docker
+- graphql - graphiql
+screenshot: xfce4-screenshooter
+shell: zsh, fish
+wallpaper: nitrogen
+terminal: lxterminal(very lightweight, opens rather quickly), mate-terminal
+terminal recording: ttyrec
+terminal tiling: dvtm
+text editor: neovim, emacs
+torrent: deluge (gui), rtorrent (tui)
+video - vlc / parole?
+virtualmachine - qemu
+window manager: i3
+video conference: skypeforlinux
+video recording: obs-studio
+
+misc: entr, htop, gohufont, wget, neofetch/alsi

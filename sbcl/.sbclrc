@@ -1,0 +1,13 @@
+;;; The following lines added by ql:add-to-init-file:
+(load "/usr/lib/quicklisp/setup")
+
+; #-quicklisp
+; (let ((quicklisp-init "/home/akhetopnu/quicklisp/setup.lisp"))
+;   (when (probe-file quicklisp-init)
+;     (load quicklisp-init)))
+
+(setf asdf:*central-registry*
+     (list* *default-pathname-defaults*
+            #p"/home/me/cl/systems/"
+            #p"/usr/share/common-lisp/systems/"
+            asdf:*central-registry*))

@@ -1,0 +1,13 @@
+--check-leaks
+--full-trace
+--harmony
+--use_strict
+--reporter min
+--recursive
+--es_staging
+--bail
+--sort
+--colors
+--preserve-symlinks
+--require assert
+--timeout 1000

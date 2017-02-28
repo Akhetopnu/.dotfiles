@@ -1,0 +1,21 @@
+# do not bell on tab-completion
+# set bell-style none
+set colored-stats on
+# set convert-meta off
+set completion-ignore-case on
+set enable-keypad on
+# set editing-mode vi
+# set enable-meta-key vi
+# set input-meta on
+# set keymap vi
+set mark-symlinked-directories on
+set match-hidden-files on
+# set menu-complete-display-prefix on
+# set meta-flag on
+# set output-meta on
+set show-all-if-ambiguous on
+set visible-stats on
+
+
+"\e[1;5D": backward-word
+"\e[1;5C": forward-word
